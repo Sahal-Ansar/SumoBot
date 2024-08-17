@@ -1,1 +1,7 @@
 # SumoBot
+
+This project presents a straightforward yet innovative Arduino-based SumoBot, purpose-built for participation in sumo robot competitions. The SumoBot is thoughtfully engineered, incorporating a single ultrasonic sensor that serves as the primary tool for detecting obstacles and navigating its surroundings. This sensor plays a crucial role in the bot's functionality, enabling it to identify and react to opposing robots during matches.
+
+The design features two strategically positioned wheels at the rear of the bot, which are responsible for its movement and agility within the competition arena. These rear-mounted wheels provide a balanced blend of speed and maneuverability, allowing the SumoBot to execute swift and precise movements during a match. The ultrasonic sensor, combined with the rear-wheel drive system, ensures that the bot is capable of effectively tracking and engaging opponents in the sumo ring.
+
+This design is not only lightweight but also highly efficient, making it an ideal introductory project for those interested in exploring robotics. Whether you are a beginner or an enthusiast looking to build a functional and competitive sumo robot, this Arduino-based SumoBot offers a practical and rewarding experience. Its simplicity and effectiveness make it an excellent entry point into the world of robotics, providing both educational value and hands-on learning opportunities.
